@@ -4,5 +4,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img height="28" src="https://github.com/user-attachments/assets/5622e017-6a16-47ee-9395-a78359fc61b4" />
+  <img height="30" alt="image" src="https://github.com/user-attachments/assets/d3ae385d-19cd-4d92-873e-95ab6ba3ef20" />
+
 </p>
